@@ -1,0 +1,240 @@
+#footer
+{
+	bottom:0;
+	margin-left:10%;
+	color:white;
+}
+
+.left-box
+{
+	width:55%;
+	color:white;
+}
+
+.left1
+{
+	height:10px;
+	background-color:yellow;
+}
+
+.left2
+{
+	margin-top:-10px;
+}
+
+.left3
+{
+	background-color:yellow;
+}
+
+.yellowtext
+{
+	color:yellow;
+}
+
+.left4
+{
+		height:50px;
+		background-color:yellow;
+		width:4px;
+		float:left;
+}
+
+.left5
+{
+	float:left;
+	margin-top:-15px;
+	margin-left:15px;
+}
+
+.textup
+{
+	margin-top:-30px;
+}
+
+.move2
+{
+	margin-top:100px;
+}
+
+.yeyeye
+{
+	border: 2px double yellow;
+	padding:2px;
+	float:left;
+}
+
+.yeyeyeye
+{
+	border: 2px double yellow;
+	padding:2px;
+	float:right;
+}
+
+.arial
+{
+	font-family: Arial Black;
+}
+
+.pololo
+{
+	margin-top:70px;
+	list-style-image : url(bullet.gif);
+}
+
+
+.tt1
+{
+	margin-left:20%;
+}
+
+.tt2
+{
+	margin-right:20%;
+	float:right;
+	margin-top:-47px;
+}
+
+h4
+{
+	border-top:2px solid grey;
+	padding-top:20px;
+	padding-bottom:0px;
+}
+
+.momo
+{
+	margin-left:20%;
+	width:20%;
+	color:grey;
+}
+
+.ee
+{
+	border-bottom:2px solid grey;
+	padding-bottom:20px;
+}
+
+.momo2
+{
+	margin-right:20%;
+	float:right;
+	margin-top:-350px;
+	width:20%;
+	color:grey;
+}
+
+.right-box
+{
+	width:35%;
+	float:right;
+	margin-top:-2000px;
+	margin-right:5%;
+}
+
+.popopo
+{
+	margin-top:400px;
+	list-style-image : url(star1.jpg);
+	margin-left:10%;
+}
+
+.lololo
+{
+	height: 4px;
+	width:80%;
+	margin-left:10%;
+	background-color:yellow;
+	margin-top:40px;
+}
+
+.sss
+{
+	margin-left:10%;
+}
+
+.rrr
+{
+	background-color:yellow;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.aaa
+{
+	border:2px solid yellow;
+	margin-left:10%;
+	margin-right:10%;
+	height:600px;
+	margin-top:-20px;
+}
+
+.iii
+{
+	margin-left:5%;
+}
+
+.eee
+{
+	margin-left:10%;
+}
+
+.qxqx
+{
+	border:2px solid yellow;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:-20px;
+}
+
+html { 
+  margin:0;
+  padding:0;
+  background: url(full.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+  background-size: cover; /* version standardisée */
+}
+
+.dodo
+{
+	float:right;
+	width:45%;
+}
+
+.plpl
+{
+	background:url('footer.gif');
+	height:250px;
+	background-repeat:no-repeat;
+	margin-left:55%;
+	position:relative;
+	margin-bottom:-50px;
+}
+
+.rerere 
+{
+	float:right;
+	width:41%;
+	top:0;
+	background-size:cover;
+	height:400px;
+}
+
+.mdr
+{
+	color:white;
+	float:right;
+	margin-right:-300px;
+	margin-top:100px;
+	font-size:60px;
+}
+
+
+
+
+
+
+
+
+
+
